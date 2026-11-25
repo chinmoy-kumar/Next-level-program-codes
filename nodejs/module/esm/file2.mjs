@@ -1,0 +1,1 @@
+import a from "./file1.mjs"
